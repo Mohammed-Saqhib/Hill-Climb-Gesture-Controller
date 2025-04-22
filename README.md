@@ -84,7 +84,7 @@ Feel free to tweak these values to suit your environment and preferences.
 ## Contributing
 
 Contributions, issues and feature requests are welcome!  
-1. Fork it (<https://github.com/your‑username/hill_climb_hand_controller/fork>)  
+1. Fork it (<https://github.com/Mohammed-Saqhib/Hill-Climb-Gesture-Controller/tree/main/hill_climb_hand_controller/fork>)  
 2. Create your feature branch (`git checkout -b feature/YourFeature`)  
 3. Commit your changes (`git commit -m 'Add some feature'`)  
 4. Push to the branch (`git push origin feature/YourFeature`)  
