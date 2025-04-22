@@ -1,1 +1,1 @@
-# hill-climb-gesture-controller
+# Hill-Climb-Gesture-Controller
